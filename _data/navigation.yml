@@ -1,7 +1,8 @@
 # main links
 main:
-
   - title: "About"
     url: /about/
-  - title: "Nest JS"
-    url: /nest-js/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
