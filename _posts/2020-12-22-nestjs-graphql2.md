@@ -25,6 +25,8 @@ last_modified_at: 2020-12-22
 
 - @InputType()은 object를 통째로 전달할 수 있게 해줌
 - object arguments를 받아 graphql로 전달해 줌
+- InputType()은 resolver에서 부를 때 @Args('input')으로 해줘야 함
+- @InputType({isAbstract: true})은 InputType이 스키마에 포함되지 않기를 원한다는 뜻임
 
 <br>
 
