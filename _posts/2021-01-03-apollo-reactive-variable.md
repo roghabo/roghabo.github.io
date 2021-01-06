@@ -8,7 +8,7 @@ categories:
 tags:
   - apollo
 
-last_modified_at: 2020-01-03
+last_modified_at: 2021-01-03
 ---
 
 ### Reactive variables
